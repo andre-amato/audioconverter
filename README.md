@@ -153,13 +153,16 @@ Used in: convert_live_audio.py and convert_wpp_audio.py
 For converting live or pre-recorded speech into text.
 
 pydub:
+
 Used in: convert_wpp_audio.py
 For handling and converting audio formats, specifically converting .m4a files (WhatsApp audio) to .wav before processing.
 
 pandas:
+
 Used in: count_live_words.py and count_wpp_words.py
 For data manipulation and creating the Excel output file.
 
 openpyxl:
+
 Used in: count_live_words.py and count_wpp_words.py
 For writing data to Excel files (.xlsx).
