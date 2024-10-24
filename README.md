@@ -177,6 +177,8 @@ python3
 
 ## Knowledge
 
+speechrecognition:
+
 Used in: convert_live_audio.py and convert_wpp_audio.py
 For converting live or pre-recorded speech into text.
 
