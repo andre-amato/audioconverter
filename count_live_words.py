@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Specify the path to the JSON file
-json_file_path = "recognized_texts.json"
+json_file_path = "recognized_texts_live.json"
 
 # Load the JSON data from the file
 with open(json_file_path, "r", encoding="utf-8") as file:

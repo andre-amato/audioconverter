@@ -145,9 +145,37 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 
-## Obs:
+## Problems you may encounter:
 
-speech_recognition:
+If you find problems:
+
+- Try to update the requirements
+- Try updating both numpy and pandas to ensure they are compatible versions:
+
+```bash
+pip install --upgrade numpy pandas
+```
+
+Check the version of Python you are using, maybe you will need to use different commands
+Ex:
+
+```bash
+pip
+```
+
+```bash
+pip3
+```
+
+```bash
+python
+```
+
+```bash
+python3
+```
+
+## Knowledge
 
 Used in: convert_live_audio.py and convert_wpp_audio.py
 For converting live or pre-recorded speech into text.

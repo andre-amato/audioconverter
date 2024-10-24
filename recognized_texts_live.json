@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "timestamp": "2024-10-24 09:42:56",
+        "recognized_texts": [
+            "olá chat tudo bem como é que você tá",
+            "problema de esgoto de água aqui bem brava aqui em casa",
+            "será que você consegue vir aqui para mim resolver o problema",
+            "para matar o prefeito"
+        ]
+    }
+]
