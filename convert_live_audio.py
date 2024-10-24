@@ -10,7 +10,7 @@ UserVoiceRecognizer = sr.Recognizer()
 language_code = input("Enter the language code (e.g., 'en-US' for English, 'pt-BR' for Brazilian Portuguese): ")
 
 # File to save recognized entries
-json_file_path = 'recognized_texts.json'
+json_file_path = 'recognized_texts_live.json'
 
 # Ensure the JSON file exists; if not, create an empty one
 if not os.path.exists(json_file_path):
